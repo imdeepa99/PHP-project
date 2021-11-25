@@ -1,0 +1,57 @@
+.photo {
+		background-image:url('photo.jpg');
+		height:90vh;
+		background-size:cover;
+		background-repeat:no-repeat;
+		background-position:center;
+		}
+.head{
+		padding:15px;
+		paddding-bottom:5px;
+		margin:5px;
+		background:white;
+		border:2px solid white;
+		}
+.head label{
+		text-transform:uppercase;
+		margin-bottom:4px;
+		padding:2px;
+		display:block;
+		}
+.head .value input{
+		width: 400px;
+		padding:5px;
+		padding: 15px 30px;
+		border-radius: 15px;
+		outline: 0;
+		margin:5px;
+		}	
+.head .value select{
+		width: 400px;
+		padding:5px;
+		padding: 15px 30px;
+		border-radius: 15px;
+		outline: 0;
+		}
+.appointment{
+		float:right;
+		width:50%;
+		}
+.appointment .a select{
+		width: 400px;
+		padding:5px;
+		padding: 15px 30px;
+		border-radius: 15px;
+		outline: 0;
+	}
+.appointment label{
+		text-transform:uppercase;
+		margin-bottom:4px;
+		padding:2px;
+		display:block;
+		}
+
+.a{
+	display:inline-block;
+	margin:4px 4px;
+}

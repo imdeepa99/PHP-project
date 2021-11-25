@@ -1,0 +1,42 @@
+			
+			*{
+				margin:0px;
+				padding:0px;
+				margin:10px 5px 3px 5px;
+				background:gray;
+				text-align:center;
+			}
+			.form{
+				border:2px;
+			}
+			.form .signup input {
+				width:150px;
+				height:25px;
+				font-size:15px;
+				border-radius:15px;
+				display:inline-block;
+				
+				
+			}
+			.form .signup label {
+				height:5px;	
+				display:block;
+			}
+			.form .submit input{
+				height:30px;
+				width:100px;
+				background:green;
+				border-radius:15px;
+				color:white;
+				text-transform:uppercase;
+			}
+			
+			
+						
+		.form .submit input:hover{
+				background: red;
+				color: white;
+				
+}
+
+		

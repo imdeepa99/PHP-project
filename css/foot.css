@@ -1,0 +1,37 @@
+footer{
+    background: teal;
+    color: white;
+    padding: 30px 0;
+    text-align: center;
+    font-size: 18px;
+	
+}
+.A{
+	float:right;
+}
+footer ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+footer ul.footer-widget li{
+    display: inline-block;
+    padding-right: 15px;
+}
+.footer-icon{
+    display:inline-block;
+	height:40px;
+	width:40px;
+	background:white;
+	border-radius:100%;
+	color:teal;
+	text-align:center;
+	font-size:20px;
+	line-height:40px;
+	margin-right:5px;
+}
+footer ul li .icon:hover{
+    background: teal;
+    color: white;
+}
+
